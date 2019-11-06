@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardImg, CardBody, Row, Col, CardLink } from 'reactstrap';
+import { Card, CardImg, CardBody, Row, CardLink } from 'reactstrap';
 
 const GithubUserCard = ({ user }) => {
   return (
